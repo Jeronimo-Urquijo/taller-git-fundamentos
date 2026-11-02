@@ -1,3 +1,6 @@
 Hola mundo
 Aprendiendo de ramas en git
+HEAD
 cambio contradictorio en main
+Cambio rama conflicto
+rama-conflicto
